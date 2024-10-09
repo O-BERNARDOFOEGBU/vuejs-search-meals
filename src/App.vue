@@ -1,5 +1,5 @@
 <template>
-  <h1 class="bg-blue-500">App me</h1>
+  <router-view />
 </template>
 
 <script setup></script>
